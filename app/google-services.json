@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531231539171",
+    "project_id": "online-billing-system-2e0bb",
+    "storage_bucket": "online-billing-system-2e0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531231539171:android:40c981aa4a35c19f0e6ad6",
+        "android_client_info": {
+          "package_name": "example.akshay.onlinebillingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL30vSShPsp8mskZPzpqVyEvL9DKTvWFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
